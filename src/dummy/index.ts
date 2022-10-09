@@ -1,0 +1,22 @@
+export const GALLERY_DATA = [
+  {
+    image_url:
+      'https://i.picsum.photos/id/1036/250/250.jpg?hmac=9fL8NcWXoYu_sPjzZJZWfYy5Vkeb0C5iwU-hQNVZEwM',
+  },
+  {
+    image_url:
+      'https://i.picsum.photos/id/830/250/250.jpg?hmac=i7dXk2NT5KUAlstS3skkIRWyFNbmNZmyWiRfnUycEIs',
+  },
+  {
+    image_url:
+      'https://i.picsum.photos/id/45/250/250.jpg?hmac=sHR_gO39ZBKBgW7pmw1THwUfQBnZcbSpC2LbrqZfbqY',
+  },
+  {
+    image_url:
+      'https://i.picsum.photos/id/866/250/250.jpg?hmac=vhK2T6vN4G-b72baA0l2dc0ZaJfNcTgyJVSaLEeT-9s',
+  },
+  {
+    image_url:
+      'https://i.picsum.photos/id/837/250/250.jpg?hmac=aqsduiQw27FO1bZ4-oZbYL7eeh4hudeeShZVLCYe0OQ',
+  },
+];
